@@ -246,3 +246,6 @@ This repository serves as the official landing page for Them's Fightin' Herds. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Them's Fightin' Herds today!**
+
+---
+**Last updated:** 2026-09-11 02:57:40 UTC
