@@ -248,4 +248,4 @@ This repository serves as the official landing page for Them's Fightin' Herds. T
 **Get the most recent version of Them's Fightin' Herds today!**
 
 ---
-**Last updated:** 2026-09-13 17:14:46 UTC
+**Last updated:** 2026-09-13 20:17:58 UTC
